@@ -10,7 +10,6 @@ public class cambio1 {
 		System.out.print("Hola1");
 		System.out.print("Hola1");
 		System.out.print("Hola1");
-		System.out.print("Hola1");
 	}
 
 }
